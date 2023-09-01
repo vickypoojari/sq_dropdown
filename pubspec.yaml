@@ -1,7 +1,8 @@
 name: sq_dropdown
-description: A new Flutter package project.
+description: A new Flutter package with a customized dropdown.
 version: 0.0.1
-homepage: 'sq_dropdown'
+author: Vicky Poojari
+homepage: 'https://github.com/vickypoojari/sq_dropdown'
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
