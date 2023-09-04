@@ -15,8 +15,8 @@ class SqDropDown extends StatelessWidget {
     return TextButton(
         onPressed: onPressed,
         style: TextButton.styleFrom(
+          foregroundColor: Colors.white,
           padding: const EdgeInsets.all(16.0),
-          primary: Colors.white,
           backgroundColor: Colors.blue,
           elevation: 9.0,
           textStyle: const TextStyle(
